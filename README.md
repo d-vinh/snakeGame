@@ -3,7 +3,7 @@
 Simple snake game through python.
 
 Required libraries:
-pygame
+pygame,
 pip
 
 Command to run:
